@@ -1,4 +1,3 @@
-'''Code has not been integrated for GPU usage with Cuda'''
 from split import split
 from geometries import geometries
 from measurements import measurements
