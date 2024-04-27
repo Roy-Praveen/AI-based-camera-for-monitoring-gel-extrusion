@@ -21,7 +21,7 @@ Remember to direct to your model.pt file.
 ### Other scripts
 The other scripts have been written in a OOP format as adviced by NBIL.
 
-### High Level Functioning
+### High Level Function
 The script basically measures your gel which is in red color relative to the size of the needle which is in green color.
 The output will show the percentage of how small or big the gel is relative to the needle.
 This output can be used to regulate pressure of 3D bioprinters to avoid under extrusion, over extrusion and even automate quality control.
