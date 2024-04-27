@@ -1,4 +1,8 @@
 # Teldyne FLIR Camera (Monitoring of gel extrsuion from needle)
+***
+*Kindly note that this repository will not contain comments as the owners do not intend the codes to be readable which might lead to loss of intelectual property.*
+***
+
 ### Example of broken Extrusion
 ![NZ196](https://github.com/Roy-Praveen/FLIR-camera-based-monitoring-of-Extrusion/assets/93182817/cf2b3e67-9b24-4a14-b421-458ca3d2aeb1)
 
